@@ -1,3 +1,4 @@
+[![Zecheru Ionut's GitHub stats](https://github-readme-stats.vercel.app/api?username=izecheru)](https://github.com/izecheru/github-readme-stats)
 ### Hi there 👋
 
 <!--
