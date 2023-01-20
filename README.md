@@ -1,4 +1,4 @@
-![Ionut's GitHub stats](https://github-readme-stats.vercel.app/api?username=izecheru)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=github_dark)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=izecheru&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 <!--
