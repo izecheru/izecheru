@@ -1,5 +1,6 @@
-##[![Zecheru Ionut's GitHub stats](https://github-readme-stats.vercel.app/api?username=izecheru)](https://github.com/izecheru/github-readme-stats)
-##[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=izecheru&theme=cobalt&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![Zecheru Ionut's GitHub stats](https://github-readme-stats.vercel.app/api?username=izecheru)](https://github.com/izecheru/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=izecheru&theme=cobalt&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 <!--
 **izecheru/izecheru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
