@@ -1,6 +1,6 @@
-[![ionut's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=izecheru&show_icons=true&theme=transparent#gh-dark-mode-only)](https://github.com/izecheru/github-readme-stats#gh-dark-mode-only)
+[![ionut's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=izecheru&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/izecheru/github-readme-stats#gh-dark-mode-only)
 
-[![ionut's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=izecheru&show_icons=true&theme=transparent#gh-light-mode-only)](https://github.com/izecheru/github-readme-stats#gh-light-mode-only)
+[![ionut's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=izecheru&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/izecheru/github-readme-stats#gh-light-mode-only)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=izecheru&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 <!--
