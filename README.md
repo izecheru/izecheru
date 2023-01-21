@@ -1,7 +1,5 @@
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=izecheru&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/6oQPOcjcSLSFRi2MR9Gsaw)
-
 
 <!--
 **izecheru/izecheru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
