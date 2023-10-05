@@ -1,22 +1,19 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=izecheru&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+<h1 align="center">Hi 👋, I'm Ionuț</h1>
+<h3 align="center">I'm Ionut, a determined programmer known for finding solutions in the face of challenges. With expertise in application testing and a degree in Managerial Informatics, I offer a unique blend of technical prowess and business insight. I thrive in collaborative settings, value attention to detail, and continuously seek innovation. Passionate about technology, I'm eager to connect and excel together. My interests include reverse engineering, creative problem-solving, and perpetual learning. Let's collaborate and innovate!</h3>
 
-<!--
-**izecheru/izecheru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=izecheru&label=Profile%20views&color=0e75b6&style=flat" alt="izecheru" /> </p>
 
+- 📫 How to reach me **zecheru.ionut.roberto@gmail.com**
 
-[![ionut's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=izecheru&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/izecheru/github-readme-stats#gh-dark-mode-only)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-[![ionut's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=izecheru&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/izecheru/github-readme-stats#gh-light-mode-only)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=izecheru&show_icons=true&locale=en&layout=compact" alt="izecheru" /></p>
 
-Here are some ideas to get you started:
-bg_color=00000000
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=izecheru&show_icons=true&locale=en" alt="izecheru" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izecheru&" alt="izecheru" /></p>
